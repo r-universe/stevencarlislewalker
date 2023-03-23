@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MEMSS"]
+	path = MEMSS
+	url = https://github.com/cran/MEMSS
+	shallow = true
+	registered = true
+[submodule "mlmRev"]
+	path = mlmRev
+	url = https://github.com/cran/mlmRev
+	shallow = true
+	registered = true
+[submodule "SASmixed"]
+	path = SASmixed
+	url = https://github.com/cran/SASmixed
+	shallow = true
+	registered = true
