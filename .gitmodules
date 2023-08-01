@@ -5,9 +5,9 @@
 [submodule "MEMSS"]
 	path = MEMSS
 	url = https://github.com/cran/MEMSS
-[submodule "mlmRev"]
-	path = mlmRev
-	url = https://github.com/cran/mlmRev
 [submodule "SASmixed"]
 	path = SASmixed
 	url = https://github.com/cran/SASmixed
+[submodule "mlmRev"]
+	path = mlmRev
+	url = https://github.com/cran/mlmRev
